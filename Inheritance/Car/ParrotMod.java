@@ -1,0 +1,3 @@
+class ParrotMod extends BirdAbstract{
+	
+}

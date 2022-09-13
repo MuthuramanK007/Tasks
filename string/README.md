@@ -4,7 +4,7 @@ String Tasks pdf contains the Questons,
 	implemented error handling.
 	Avoided Hardcoding. 
 	
-StringMain --> contains all the methods implmentation
+StringMain --> contains all the methods implementation
 
 
 TestRunner --> contains the usage of the StringMain methods
